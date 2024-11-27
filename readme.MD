@@ -1,4 +1,4 @@
 # Dosa
 
 * dosa flour
-* oil
+* karam
