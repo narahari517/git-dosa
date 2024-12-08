@@ -16,3 +16,4 @@
 * dosa batter
 * ghee
 * podi
+* paneer
