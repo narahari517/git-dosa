@@ -8,4 +8,4 @@
 * dosa batter
 * podi
 * ghee
-* oil
+* paneer
