@@ -7,5 +7,5 @@
 # special dosa
 * dosa batter
 * podi
-* karam
+* ghee
 * oil
