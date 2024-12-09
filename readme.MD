@@ -4,6 +4,12 @@
 * karam
 * oil
 
+# special dosa
+* dosa batter
+* podi
+* ghee
+* paneer
+=======
 # paneer masala
 * dosa batter
 * paneer
@@ -11,9 +17,3 @@
 * mysore masala
 * onion
 * masala
-
-# special dosa
-* dosa batter
-* ghee
-* podi
-* paneer
